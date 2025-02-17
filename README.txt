@@ -1,4 +1,3 @@
 BÀI TOÁN QUẢN LÍ NHÂN SỰ
 - Người thực hiện: Nguyễn Võ Anh Quốc
-- Hỗ trợ: Phan Gia Qúy
 Về logic thì 1 phòng ban sẽ chứa nhiều nhân viên (quan hệ 1-n). Thao tác của ứng dụng sẽ chỉ ra hoạt động phòng ban sẽ có thể nắm thông tin của từng nhân viên trong 1 phòng ban tương ứng, sẽ có nhiều phòng khác nhau như: phòng nhân sự, tài chính, it, bảo vệ,… Giao diện chính sẽ là danh sách phòng ban của 1 công ty, tương ứng ta có thể xem, sửa, xóa, thêm,… các phòng ban. Và trong mỗi phòng ban sẽ có giao diện hiện danh sách nhân viên, ở đây ta có thể xem danh sách nhân viên của phòng ban đó, cũng như các thao tác thêm, xóa, tìm kiếm,… nhân viên. Và vào trong để xem thông tin cá nhân của nhân viên để thực hiện các tác vụ cần thiết. 
