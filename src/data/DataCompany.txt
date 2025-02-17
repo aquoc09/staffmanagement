@@ -1,0 +1,155 @@
+- Department: f10000 - Ban Quản Trị - 3
++ Employee of f10000:
+
+c10001 - Nguyễn Anh Quốc - 089996337020 - Nam - 21/01/1974 - quocanh.nguyen@gmail.com - 361 Phạm Ngũ Lão, Quận 1, TP.HCM - Ban Quản Trị - Chủ tịch HĐQT - 29000000
+
+c10002 - Ngô Đình Phong - 451996489021 - Nam - 01/02/1980 - phongdinh.ngo@gmail.com - 135 Nguyễn Thị Minh Khai, Quận 1, TP.HCM - Ban Quản Trị - Phó Chủ Tịch - 26000000
+
+c10003 - Nguyễn Anh Phú - 451996562021 - Nam - 28/02/1988 - phuanh.nguyen@gmail.com - 12 Nguyễn Văn Cừ, Quận 1, TP.HCM - Ban Quản Trị - Ủy viên BQT - 24000000
+
+- Department: f10001 - Ban Giám Đốc - 5
++ Employee of f10001:
+
+c10004 - Trần Thị An - 341996337020 - Nữ - 01/01/2000 - anthi.tran@gmail.com - 26-28 Phan Bội Châu, Quận 1, TP.HCM - Ban Giám Đốc - Tổng Giám Đốc - 19000000
+
+c10005 - Nguyễn Văn Bằng - 341996337021 - Nam - 01/02/2001 - bangvan.nguyen@gmail.com - 135 Nam Kỳ Khởi Nghĩa, Quận 1, TP.HCM - Ban Giám Đốc - Phó Tổng Giám Đốc - 16000000
+
+c10006 - Lê Cường - 341996337022 - Nam - 01/03/2002 - cuong.le@gmail.com - 1 Công Xã Paris, Quận 1, TP.HCM - Ban Giám Đốc - Giám Đốc Điều Hành - 14000000
+
+c10007 - Nguyễn Trường - 341996337023 - Nam - 01/04/2001 - truong.nguyen@gmail.com - 55C Cao Thắng, Quận 3, TP.HCM - Ban Giám Đốc - Giám Đốc Marketing - 14000000
+
+c10008 - Nguyễn Trường Khánh - 341996337024 - Nam - 01/05/2002 - khanhtruong.nguyen@gmail.com - 2 Nguyễn Bỉnh Khiêm, Quận 1, TP.HCM - Ban Giám Đốc - Giám Đốc Marketing - 14000000
+
+- Department: f10002 - CSKH - 5
++ Employee of f10002:
+
+c10009 - Phạm Thế An - 341996337025 - Nam - 01/06/2001 - anthe.pham@gmail.com - Nguyễn Huệ, Quận 1, TP.HCM - CSKH - Nhân Viên hỗ trợ khách hàng - 8000000
+
+c10010 - Nguyễn Vinh - 341996337026 - Nam - 01/07/2002 - vinh.nguyen@gmail.com - 48A Đặng Văn Ngữ, Quận 1, TP.HCM - CSKH - Quản lý chăm sóc khách hàng - 10000000
+
+c10011 - Nguyễn Văn Quân - 341996337027 - Nam - 01/08/2001 - quanvan.nguyen@gmail.com - 9B/18A Phạm Ngọc Thạch, Quận 3, TP.HCM - CSKH - Nhân viên phụ trách phản hồi và khảo sát khách hàng - 9000000
+
+c10012 - Võ Quốc Tuấn - 341996337028 - Nam - 01/09/2002 - tuanquoc.vo@gmail.com - 65 Lê Lợi, Quận 1, TP.HCM - CSKH - Nhân viên kỹ thuật hỗ trợ khách hàng - 8000000
+
+c10013 - Phạm Lê Nhã - 341996337029 - Nữ - 01/10/2001 - nhale.pham@gmail.com - 72 Lê Thánh Tôn, Quận 1, TP.HCM - CSKH - Nhân viên hậu mãi - 8000000
+
+- Department: f10003 - Kế Toán - 6
++ Employee of f10003:
+
+c10014 - Lê Thị Mỹ - 341996337030 - Nữ - 01/11/2002 - mythi.le@gmail.com - 120 Hà Nội, Quận 9, TP.HCM - Kế Toán - Kế toán trưởng - 11000000
+
+c10015 - Nguyễn Thị Trúc Quỳnh - 341996337031 - Nữ - 01/12/2001 - quynhtructhi.nguyen@gmail.com - 2 Hải Triều, Quận 1, TP.HCM - Kế Toán - Kế toán tổng hợp - 10000000
+
+c10016 - Trần Hoài Phúc - 341996337032 - Nam - 02/01/2001 - phuchoai.tran@gmail.com - 469-471 Nguyễn Hữu Cảnh, Quận Bình Thạnh, TP.HCM - Kế Toán - Kế toán viên - 8000000
+
+c10017 - Bùi Trọng Nghĩa - 341996337033 - Nam - 02/02/2002 - nghiatrong.bui@gmail.com - Phú Mỹ Hưng, Quận 7, TP.HCM - Kế Toán - Kế toán nội bộ - 9000000
+
+c10018 - Võ Nguyên Trạng - 341996337034 - Nam - 02/03/2001 - trangnguyen.vo@gmail.com - 30 Bờ Bao Tân Thắng, Quận Tân Phú, TP.HCM - Kế Toán - Kế Toán Thuế - 9000000
+
+c10019 - Võ Thị Hằng - 341996337035 - Nữ - 02/04/2002 - hangthi.vo@gmail.com - 3 Hòa Bình, Quận 11, TP.HCM - Kế Toán - Thủ quỹ - 9000000
+
+- Department: f10004 - Kinh Doanh - 6
++ Employee of f10004:
+
+c10020 - Nguyễn Sỹ Khiêm - 341996337036 - Nam - 02/05/2001 - sykhiem.nguyen@gmail.com - 339 Nam Kỳ Khởi Nghĩa, Quận 3, TP.HCM - Kinh Doanh - Trưởng phòng kinh doanh  - 11000000
+
+c10020 - Nguyễn Bính Toàn - 341996337037 - Nam - 02/06/2002 - toanbinh.nguyen@gmail.com - 73 Mai Thị Lựu, Quận 1, TP.HCM - Kinh Doanh - Nhân viên kinh doanh - 8000000
+
+c10021 - Trần Quốc Toản - 341996337038 - Nam - 02/07/2001 - toanquoc.tran@gmail.com - 57A Bình Tây, Quận 6, TP.HCM - Kinh Doanh - Nhân viên phát triển kinh doanh - 9000000
+
+c10022 - Nguyễn Thị Duyên - 341996337039 - Nữ - 02/08/2002 - duyenthi.nguyen@gmail.com - 60A Trường Chinh, Quận 12, TP.HCM - Kinh Doanh - Nhân viên hỗ trợ kinh doanh - 8000000
+
+c10023 - Hoàng Thị Vân - 341996337040 - Nữ - 02/09/2001 - vanthi.hoang@gmail.com - 91 Nguyễn Hữu Cảnh, Quận Bình Thạnh, TP.HCM - Kinh Doanh - Chuyên viên tiếp thị bán hàng - 9000000
+ 
+c10024 - Nguyễn Giao - 341996337041 - Nữ - 02/10/2002 - giao.nguyen@gmail.com - 1 Đường số 17A, Quận Bình Tân, TP.HCM - Kinh Doanh - Trợ lý kinh doanh - 9000000
+
+- Department: f10005 - Kỹ thuật - 6
++ Employee of f10005:
+
+c10025 - Nguyễn Hán - 341996337042 - Nam - 02/11/2001 - han.nguyen@gmail.com - 97 Phó Đức Chính, Quận 1, TP.HCM - Kỹ Thuật - Trưởng Phòng kỹ thuật - 11000000
+
+c10026 - Phạm Anh - 341996337043 - Nam - 02/12/2002 - anh.pham@gmail.com - 208 Nguyễn Hữu Cảnh, Quận Bình Thạnh, TP.HCM - Kỹ Thuật - Kỹ sư trưởng - 10000000
+
+c10027 - Lê Hùng Anh - 341996337044 - Nam - 03/01/2002 - anhhung.le@gmail.com - 17A Đường Hải Thượng Lãn Ông, Quận 5, TP.HCM - Kỹ Thuật - Kỹ sư thiết kế - 9000000
+
+c10028 - Lê Hùng  - 341996337045 - Nam - 03/02/2001 - hung.le@gmail.com - 34 An Dương Vương, Quận 5, TP.HCM - Kỹ Thuật - Kỹ sư sản xuất - 9000000
+
+c10029 - Lê Tiến - 341996337046 - Nam - 03/03/2002 - tien.le@gmail.com - 45 Nguyễn Văn Cừ, Quận 5, TP.HCM - Kỹ Thuật - Kỹ sư bảo trì - 9000000
+
+c10030 - Lê Cao Phát - 341996337047 - Nam - 03/04/2002 - phatcao.le@gmail.com - 138 Đào Duy Từ, Quận 10, TP.HCM - Kỹ Thuật - Kỹ thuật viên - 8000000
+
+- Department: f10006 - Marketing - 5
++ Employee of f10006:
+
+c10031 - Nguyễn Thị Khanh - 341996337048 - Nữ - 03/05/2001 - khanhthi.nguyen@gmail.com - 45 Nguyễn Khắc Nhu, Quận 1, TP.HCM - Marketing - Trưởng phòng Marketing - 11000000
+
+c10032 - Nguyễn Lê Vân - 341996337049 - Nữ - 03/06/2002 - vanle.nguyen@gmail.com - 7 Công Trường Lam Sơn, Quận 1, TP.HCM - Marketing - Chuyên viên chiến lược Marketing - 9000000
+
+c10033 - Bùi Trọng Nhẫn - 341996337050 - Nam - 03/07/2000 - nhantrong.bui@gmail.com - 92 Nguyễn Hữu Cảnh, Quận Bình Thạnh, TP.HCM - Marketing - Chuyên viên nghiên cứu thị trường - 9000000
+
+c10034 - Lý Nhã Kỳ - 341996337051 - Nữ - 03/08/2001 - lynha.ky@gmail.com - Võ Văn Tần, Quận 3, TP.HCM - Marketing - Chuyên viên truyền thông - 9000000
+
+c10035 - Nguyễn Thu Phương - 341996337052 - Nam - 03/09/2002 - phuongthu.nguyen@gmail.com - 799 Nguyễn Văn Linh, Quận 7, TP.HCM - Marketing - Chuyên viên Digital Marketing - 9000000
+
+- Department: f10007 - Nhân sự - 5
++ Employee of f10007:
+
+c10036 - Nguyễn Trung Trực - 341996337053 - Nam - 03/10/2000 - tructrung.nguyen@gmail.com - Phú Mỹ Hưng, Quận 7, TP.HCM - Nhân Sự - Trưởng phòng Nhân sự - 11000000
+
+c10037 - Hoàng Phương Nga - 341996337054 - Nữ - 03/11/2001 - ngaphuong.hoang@gmail.com - 240 đường 3 Tháng 2, Quận 10, TP.HCM - Nhân Sự - Chuyên viên tuyển dụng - 9000000
+
+c10038 - Hoàng Thuỳ Linh - 341996337055 - Nữ - 03/12/2000 -  linhthuy.hoang@gmail.com - Bùi Viện, Quận 1, TP.HCM - Nhân Sự - Chuyên viên quan hệ lao động  - 9000000
+
+c10039 - Hoàng Quốc Huy - 341996337056 - Nam - 04/01/2001 -  huyquoc.hoang@gmail.com - 6 Bà Chiểu, Quận Bình Thạnh, TP.HCM - Nhân Sự - Chuyên viên đào tạo và phát triển - 9000000
+
+c10040 - Đinh Quốc Trung - 341996337057 - Nam - 04/02/2000 - trungquoc.dinh@gmail.com - 2B Nguyễn Thị Thập, Quận 7, TP.HCM - Nhân Sự - Chuyên viên hành chính nhân sự - 9000000
+
+- Department: f10008 - Tài chính - 4
++ Employee of f10008:
+
+c10041 - Đinh La Thăng - 341996337058 - Nam - 04/03/2002 - lathang.dinh@gmail.com - 63A Trường Sa, Quận Bình Thạnh, TP.HCM - Tài Chính - Giám đốc Tài chính - 12000000
+
+c10042 - Nguyễn Thị Thu Uyen - 341996337059 - Nữ - 04/04/2001 - uyenthuthi.nguyen@gmail.com - 710 Nguyễn Trãi, Quận 5, TP.HCM - Tài Chính - Nhân viên hỗ trợ tài chính - 8000000
+
+c10043 - Bạch Khang - 341996337060 - Nam - 04/05/2000 - khang.bach@gmail.com - 161 Xa Lộ Hà Nội, Quận 2, TP.HCM - Tài Chính - Chuyên viên tài chính doanh nghiệp  - 9000000	
+
+c10044 - Tạ Quang Tùng - 341996337061 - Nam - 04/06/2001 - tungquang.ta@gmail.com - 469-471 Nguyễn Hữu Cảnh, Quận Bình Thạnh, TP.HCM - Tài Chính - Chuyên viên phân tích tài chính - 9000000	
+
+- Department: f10009 - Xưởng - 4
++ Employee of f10009:
+
+c10045 - Trịnh Trần Phương Tuấn - 341996337062 - Nam - 04/07/2000 - phuongtuantran.trinh@gmail.com - 1 Lữ Gia, Quận 11, TP.HCM - Xưởng - Quản đốc xưởng - 11000000	
+
+c10046 - Nguyễn Khánh Phương - 341996337063 - Nam - 04/08/2002 - phuongkhanh.nguyen@gmail.com - 1000 Kinh Dương Vương, Quận 6, TP.HCM - Xưởng - Trưởng ca - 9000000	
+
+c10047 - Ngô Bá Khá - 341996337064 - Nam - 04/09/2001 - khaba.ngo@gmail.com - 381 Hai Bà Trưng, Quận 1, TP.HCM - Xưởng - Kỹ sư sản xuất - 9000000	
+
+c10048 - Lý Tuân - 341996337065 - Nam - 04/10/2002 - tuan.ly@gmail.com - 28 Võ Văn Tần, Quận 3, TP.HCM - Xưởng - Kỹ thuật viên bảo trì  - 9000000	
+
+- Department: f10010 - Mua Hàng - 2
++ Employee of f10010:
+
+c10049 - Phạm Nhã Hân - 341996337066 - Nữ - 04/11/2001 - hannha.pham@gmail.com - 92-94 Nam Kỳ Khởi Nghĩa, Quận 1, TP.HCM - Mua Hàng - Trưởng phòng mua hàng - 11000000	
+
+c10050 - Nguyễn An Nhiên - 341996337067 - Nữ - 04/12/2000 - annhien.nguyen@gmail.com - 3 Hòa Bình, Quận 11, TP.HCM - Mua Hàng - Chuyên viên mua hàng - 9000000	
+
+- Department: f10011 - IT - 4
++ Employee of f10011:
+
+c10051 - Nguyễn Bảo An - 341996337068 - Nam - 05/01/2000 - anbao.nguyen@gmail.com - 2A Nguyễn Duy Trinh, Quận 9, TP.HCM - IT - Trưởng phòng IT - 11000000	
+
+c10052 - Lê Hoàng - 341996337069 - Nam - 05/02/2001 - hoang.le@gmail.com - 65 Lê Lợi, Quận 1, TP.HCM - IT - Kỹ sư phần mềm - 9000000	
+
+c10053 - Hoàng Cửu Long - 341996337070 - Nam - 05/03/2000 - longcuu.hoang@gmail.com - 101 Tôn Dật Tiên, Quận 7, TP.HCM - IT - Kỹ sư hệ thống - 9000000	
+
+c10054 - Lý Duy Đông - 341996337071 - Nam - 05/04/2001 - dongduy.ly@gmail.com - 208 Nguyễn Hữu Cảnh, Quận Bình Thạnh, TP.HCM - IT - Kỹ thuật viên hỗ trợ IT - 9000000	
+
+- Department: f10012 - Bảo vệ - 3
++ Employee of f10012:
+
+c10055 - Hạo Nhiên - 341996337072 - Nam - 05/05/2002 - nhien.hao@gmail.com - 1147 Bình Quới, Quận Bình Thạnh, TP.HCM - Bảo vệ - Trưởng Phòng Bảo Vệ - 8000000	
+
+c10056 - Phạm Hữu Giang - 341996337073 - Nam - 05/06/2001 - gianghuu.nam@gmail.com - 202 Võ Thị Sáu, Quận 3, TP.HCM - Bảo vệ - Giám sát an ninh  - 7000000	
+
+c10057 - Lê Tiến An - 341996337074 - Nam - 05/07/2000 - antien.le@gmail.com - 150 Đinh Tiên Hoàng, P.Đa Kao, Q.1, TP.HCM - Bảo vệ - Bảo vệ ca - 6000000
+

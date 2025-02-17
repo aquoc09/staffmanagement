@@ -1,0 +1,23 @@
+- Department: f10001 - Ban Giám Đốc - 0
+
+- Department: f10002 - CSKH - 0
+
+- Department: f10003 - Kế Toán - 0
+
+- Department: f10004 - Kinh Doanh - 0
+
+- Department: f10005 - Kỹ thuật - 0
+
+- Department: f10006 - Marketing - 0
+
+- Department: f10007 - Nhân sự - 0
+
+- Department: f10008 - Tài chính - 0
+
+- Department: f10009 - Xưởng  - 0
+
+- Department: f10010 - Mua Hàn - 0
+
+- Department: f10011 - IT - 0
+
+- Department: f10012 - Bảo vệ - 0
